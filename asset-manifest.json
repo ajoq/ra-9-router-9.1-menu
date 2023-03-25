@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-9-router-9.1-menu/static/css/main.aa2b7fbe.css",
+    "main.js": "/ra-9-router-9.1-menu/static/js/main.fb464797.js",
+    "index.html": "/ra-9-router-9.1-menu/index.html",
+    "main.aa2b7fbe.css.map": "/ra-9-router-9.1-menu/static/css/main.aa2b7fbe.css.map",
+    "main.fb464797.js.map": "/ra-9-router-9.1-menu/static/js/main.fb464797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2b7fbe.css",
+    "static/js/main.fb464797.js"
+  ]
+}
