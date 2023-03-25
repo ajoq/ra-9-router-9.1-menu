@@ -4,6 +4,7 @@ function Menu() {
     return (
         <div className="menu">
             <NavLink
+                to="/"
                 className={({ isActive }) =>
                     isActive ? 'menu__item menu__item-active' : 'menu__item'
                 }
